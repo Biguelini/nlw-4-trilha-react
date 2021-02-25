@@ -27,7 +27,7 @@
     box-sizing: border-box;
 }
 body{
-    background:var(--white);
+    background:var(--background);
     color:var(--text);
 }
 body,input,button,textarea{
